@@ -21,17 +21,17 @@ realizado para a terceira etapa do processo seletivo do programa PubFuture</p>
 </h3>
 <p>Lib adicionada para o uso do SQLite no NodeJS</p>
 
-<h1 >
+<h3>
     <a href="https://sequelize.org/">Sequelize</a>
 </h3>
 <p >ORM (Object-Relational Mapper) para NodeJS usado para realizar o mapeamento das models para o banco de dados</p>
 
-<h1 >
+<h3>
     <a href="https://github.com/facebook/jest">Jest</a>
 </h3>
 <p >Lib usada para realizar os testes unitários</p>
 
-<h1 >
+<h3>
     <a href="https://eslint.org/">ESLint</a>
 </h3>
 <p >Lib usada para identar automáticamente o código</p>
