@@ -1,40 +1,40 @@
-<h1 align="center">Desafio PubFuture</h1>
+<h1 align="center">Desafio PubFuture</h3>
 
-## Descrição do Projeto
-<p align="center">Solução para auxiliar no controle das finanças pessoais,
+### Descrição do Projeto
+<p>Solução para auxiliar no controle das finanças pessoais,
 realizado para a terceira etapa do processo seletivo do programa PubFuture</p>
 
 ### Tecnologias
 
-<h1 align="center">
+<h3>
     <a href="https://nodejs.org/pt-br/">NodeJS</a>
-</h1>
-<p align="center">Ambiente server-side para executar a aplicação</p>
+</h3>
+<p>Ambiente server-side para executar a aplicação</p>
 
-<h1 align="center">
+<h3>
     <a href="https://www.sqlite.org/">SQLite</a>
-</h1>
-<p align="center">Uma base de dados simples e de fácil implementação</p>
+</h3>
+<p >Uma base de dados simples e de fácil implementação</p>
 
-<h1 align="center">
+<h3>
     <a href="https://github.com/mapbox/node-sqlite3">SQLite3</a>
-</h1>
-<p align="center">Lib adicionada para o uso do SQLite no NodeJS</p>
+</h3>
+<p>Lib adicionada para o uso do SQLite no NodeJS</p>
 
-<h1 align="center">
+<h1 >
     <a href="https://sequelize.org/">Sequelize</a>
-</h1>
-<p align="center">ORM (Object-Relational Mapper) para NodeJS usado para realizar o mapeamento das models para o banco de dados</p>
+</h3>
+<p >ORM (Object-Relational Mapper) para NodeJS usado para realizar o mapeamento das models para o banco de dados</p>
 
-<h1 align="center">
+<h1 >
     <a href="https://github.com/facebook/jest">Jest</a>
-</h1>
-<p align="center">Lib usada para realizar os testes unitários</p>
+</h3>
+<p >Lib usada para realizar os testes unitários</p>
 
-<h1 align="center">
+<h1 >
     <a href="https://eslint.org/">ESLint</a>
-</h1>
-<p align="center">Lib usada para identar automáticamente o código</p>
+</h3>
+<p >Lib usada para identar automáticamente o código</p>
 
 ### Features
 
@@ -70,7 +70,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/CrislaineTamires/desafiopubfuture>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafiopubfuture
