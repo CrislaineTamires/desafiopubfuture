@@ -1,0 +1,26 @@
+{
+  "name": "desafiopubfuture",
+  "version": "1.0.0",
+  "description": "Desafio PubFuture",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/CrislaineTamires/desafiopubfuture.git"
+  },
+  "author": "Crislaine Tamires",
+  "bugs": {
+    "url": "https://github.com/CrislaineTamires/desafiopubfuture/issues"
+  },
+  "homepage": "https://github.com/CrislaineTamires/desafiopubfuture#readme",
+  "dependencies": {
+    "sequelize": "^6.12.5",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
