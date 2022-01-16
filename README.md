@@ -39,26 +39,26 @@ realizado para a terceira etapa do processo seletivo do programa PubFuture</p>
 ### Features
 
 Receitas
-- [ ] Cadastrar receitas
-- [ ] Editar receitas
-- [ ] Remover receitas
-- [ ] Listar receitas
-- [ ] Listar total de receitas
+- [x] Cadastrar receitas
+- [x] Editar receitas
+- [x] Remover receitas
+- [x] Listar receitas
+- [x] Listar total de receitas
 
 Despesas
-- [ ] Cadastrar despesas
-- [ ] Editar despesas
-- [ ] Remover despesas
-- [ ] Listar despesas
-- [ ] Listar total de despesas
+- [x] Cadastrar despesas
+- [x] Editar despesas
+- [x] Remover despesas
+- [x] Listar despesas
+- [x] Listar total de despesas
 
 Contas
-- [ ] Cadastrar conta
-- [ ] Editar conta
-- [ ] Remover conta
-- [ ] Listar conta
-- [ ] Transferir saldo entre contas
-- [ ] Listar saldo total
+- [x] Cadastrar conta
+- [x] Editar conta
+- [x] Remover conta
+- [x] Listar conta
+- [x] Transferir saldo entre contas
+- [x] Listar saldo total
 
 ### Pré-requisitos
 
@@ -70,7 +70,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/CrislaineTamires/desafiopubfuture>
+$ git clone https://github.com/CrislaineTamires/desafiopubfuture
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafiopubfuture
@@ -81,5 +81,5 @@ $ npm install
 # Execute a aplicação
 $ npm start
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor inciará na porta:3000 - acesse <http://localhost:3333>
 ```

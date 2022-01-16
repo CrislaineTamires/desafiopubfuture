@@ -7,3 +7,7 @@
         console.log(error);
     }    
 })();
+
+const app = require('./app');
+
+app.listen(3333);
